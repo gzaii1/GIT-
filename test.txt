@@ -1,4 +1,8 @@
 testtest
 testtest2
 testtest3
+<<<<<<< Updated upstream
 (???)
+=======
+(stash)
+>>>>>>> Stashed changes
